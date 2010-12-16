@@ -1,0 +1,14 @@
+Copyright (c) 2010 Gregory A Frascadore
+Licensed under the Open Software License version 3.0
+
+focus
+  Basic Usage
+     focus [ keyword ]
+
+  Activate OmniFocus can set focus to projects having any group,
+  task, or subproject containing keywork in the title.
+
+  If no keyword is provided, focus on the Inbox.
+
+  If no keyword is found, print 'nothing found'.
+
